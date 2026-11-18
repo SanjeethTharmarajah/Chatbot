@@ -1,0 +1,288 @@
+YOU: Hello
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+ALIEN: Hello! How can I assist you today?
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Hello.
+ALIEN: Hello! How can I assist you today?
+YOU: Tell me a Bible verse.
+ALIEN: Philippians 4:13 says, "I can do all this through him who gives me strength."
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: What is today's Bible verse?
+ALIEN: I'm a desktop AI assistant, I don't have real-time access to the current date or time. I can suggest searching for the daily Bible verse on a website like Our Daily Bread or BibleGateway, though!
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Open YouTube.
+ALIEN: YouTube is now open. What would you like to search or watch on YouTube?
+YOU: Beyond Newest Life
+ALIEN: "Beyond: New Life" is a popular South Korean variety show. I've opened the YouTube search results for you. Would you like to watch a specific episode or browse through the available videos?
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Search Google for YouTube.
+ALIEN: Searching Google.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Type Beyond News Live.
+ALIEN: Typing.
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a joke
+ALIEN: Here's one: Why couldn't the bicycle stand up by itself? Because it was two-tired!
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a Bible story
+ALIEN: Let me tell you the story of Jonah and the Big Fish.
+
+Jonah was a prophet who was told by God to warn the people of Nineveh about their evil ways. However, Jonah tried to run away from God's message by boarding a ship sailing in the opposite direction. But, a big storm came, and Jonah was swallowed by a huge fish! The fish then spit him out on the beach, and Jonah finally obeyed God's command to go to Nineveh and tell them what's up.
+
+Would you like me to tell you more about Jonah or move on to another story?
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Tell me more about Jonah
+ALIEN: So, after being swallowed by the fish, Jonah repented and turned to God. He then went to Nineveh and preached God's message to the people, warning them of their impending doom. And, in a surprising twist, the people of Nineveh listened and repented too! They even gave up their evil ways and promised to be good.
+
+But, God wasn't entirely happy with the people's change of heart. He still wanted to test their commitment, so He told Jonah to wait on the mountain of Jezreel for 7 days. If the people still didn't change, God would destroy them. And, after 7 days, the people of Nineveh went back to their old ways, but God spared their lives because of Jonah's obedience.
+
+Jonah was a bit upset that the people didn't take God's warning seriously, and he prayed for them to die. But, God showed mercy again and saved the people.
+
+Want to hear more about Jonah or move on to another story?
+YOU: Tell me more about Jonah
+ALIEN: Let's dive deeper into Jonah's character. He was a bit of a rebel, to be honest. God called him to do something that Jonah didn't want to do, and he tried to run away from it. But, despite his initial reluctance, Jonah eventually surrendered to God's will.
+
+One interesting thing about Jonah is that he was a bit of a miracle worker. He prophesied and God did amazing things through him, like healing and calming the stormy sea. But, Jonah's greatest miracle was his own repentance. He was willing to swallow his pride and admit his mistakes, which is a really hard thing to do.
+
+Jonah's story also teaches us about God's mercy and compassion. Despite Jonah's mistakes, God still showed him love and forgiveness. And, in the end, God used Jonah to bring about a change in the people of Nineveh.
+
+Would you like to hear more about Jonah or move on to another story?
+YOU: Tell me more about Jonah
+ALIEN: In the Bible, Jonah is also known for his trust issues. Before his big adventure, Jonah was a prophet in a small town in Israel. He was sent by God to warn the people about the impending destruction of their city, but he got cold feet and ran away. He eventually ended up on the ship that was headed in the opposite direction, which is how the story of Jonah and the Big Fish begins.
+
+But, what's interesting about Jonah is that he didn't stay in that state of trust issues for long. After being swallowed by the fish, he repented and turned to God, which is a pretty big deal. He then went on to have a pretty amazing experience, getting to see the miracle of God's power firsthand.
+
+After Jonah's big adventure, he went on to serve God in a new city, and he even wrote a book in the Bible about his experiences! It's a pretty cool story, and it shows that even when we mess up, we can always turn back to God and start fresh.
+
+Would you like to hear more about Jonah or move on to another story?
+YOU: or the significance of 7 in Bible.
+ALIEN: In the Bible, the number 7 holds a lot of significance. It's considered a complete number, symbolizing perfection, unity, and fulfillment.
+
+In the story of Jonah, the 7-day waiting period on the mountain of Jezreel is a great example of this. God is testing the people's commitment to change, and the 7-day period represents a complete cycle of days, with each day building on the last.
+
+In other parts of the Bible, you'll see the number 7 showing up in different contexts, like:
+
+* Creation: God rested on the 7th day after creating the world
+* The Seven Deadly Sins: a list of human weaknesses that are considered the greatest obstacles to following God
+* The Seven Years of Jubilee: a time of rest and renewal for Israel
+* The Seven Virtues: a list of qualities that are considered essential for following God
+
+In many cases, the number 7 represents a complete or perfect cycle, highlighting God's perfection and completeness.
+
+Want to explore more about the significance of 7 in the Bible?
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a Bible verse for hope.
+ALIEN: "Look to the Lord and His good promise! For I know your eyes are on your servant." - Psalm 130:6
+YOU: The bar does the worst see
+ALIEN: It sounds like you're going through a tough time. Would you like to talk about what's on your mind, or would you rather I share a different Bible verse for hope?
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a Bible verse.
+ALIEN: Philippians 4:13 says, "I can do all things through Christ who strengthens me."
+YOU: Explain the Bible was, I can do all things through Christ.
+ALIEN: Philippians 4:13 is a verse that means you have the strength and ability to handle any situation or challenge in life, as long as you're relying on Jesus Christ. It's saying that with Christ's power and guidance, you can overcome any obstacle or difficulty that comes your way.
+YOU: Can I do all things through Christ?
+ALIEN: While Philippians 4:13 encourages you to rely on Christ for strength, the answer is not a simple "yes" or "no." It's more like a call to prayer and surrender. You can't do all things on your own, but with Christ, you can face and overcome many challenges. Of course, there are some things you can't do, like defy gravity or break physical laws, but in the spiritual realm, with Christ, you can trust that you have the power to persevere and overcome.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a hopeful Bible verse.
+ALIEN: One of my favorites is Psalm 23:4 - "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff comfort me."
+YOU: Search Google for YouTube.
+ALIEN: Searching Google.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: open search google for youtube.
+ALIEN: I've opened the default web browser and typed in the address: https://www.youtube.com
+YOU: such go good for you too.
+ALIEN: Ha ha, thanks! I'm just happy to be able to help and assist you. Now, I'll stay open to help you with anything else you need!
+YOU: Search Google for you to you.
+ALIEN: Searching Google.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: type www.youtube.com
+ALIEN: Typing.
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me your Bible was
+ALIEN: I don't have personal experiences, emotions, or possessions, including a Bible. I'm a desktop AI assistant, and I don't have a physical presence or personal history. I exist solely to provide information and assist with tasks to the best of my abilities.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Tell me a Bible verse.
+ALIEN: Philippians 4:13 says, "I can do all things through Christ who strengthens me."
+YOU: What is your name?
+ALIEN: My name is SANJAYBOT, and I'm a friendly desktop AI assistant here to help you with any questions or tasks you may have.
+YOU: Search Google for YouTube.
+ALIEN: Searching Google.
+YOU: What is the day today?
+ALIEN: I don't have real-time access to the current date or time. I can suggest checking a calendar or searching online for the current date if you need to know.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Tell me a hopeful Bible verse.
+ALIEN: I'd like to share one of my favorites: "I can do all things through Christ who strengthens me" (Philippians 4:13). It's a powerful reminder that no matter what challenges we face, we can overcome them with faith and God's support.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Search Google for YouTube.
+ALIEN: Searching Google.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Tell me how much Jesus draws us.
+ALIEN: According to the Bible, Jesus' blood and sacrifice draw us to Himself. In John 3:16, it says, "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." It's a beautiful reminder of God's love and desire to draw us to Himself through Jesus Christ.
+YOU: Then we have to be happy.
+ALIEN: That's a wonderful conclusion to draw from the Bible! Yes, being happy in God's presence is a natural response to His love and salvation. As the Bible says, "Rejoice in the Lord always. I will say it again: Rejoice!" (Philippians 4:4)
+YOU: How to be Joyful
+ALIEN: Being joyful is a choice, but here are some simple tips from the Bible:
+
+* Focus on God's goodness and provision, as the Bible says "Give thanks to the Lord, for he is good; his love endures forever!" (Psalm 107:1)
+* Share your blessings with others, as Jesus taught "Love your neighbor as yourself" (Mark 12:31)
+* Find joy in the present moment, as it says "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God" (Philippians 4:6)
+* Sing and praise God, as the Bible says "Sing to the Lord a new song; sing to him, make music with joy" (Psalm 98:4)
+
+Remember, joy is a choice, but when we choose to focus on God, share with others, and live in the present, we can experience joy that's not based on circumstances, but on our relationship with Him.
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: App info not found for ''")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+YOU: Open your tube.
+ALIEN: I don't have a tube to open. I'm a text-based AI assistant, I don't have physical components or a physical presence. I'm here to help answer your questions and provide information, though! How can I assist you today?
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+YOU: Search Google for YouTube.
+ALIEN: Searching Google.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+YOU: Hello
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1012: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/jesuschrist/allien/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+WARNING: Defaulting repo_id to hexgrad/Kokoro-82M. Pass repo_id='hexgrad/Kokoro-82M' to suppress this warning.
+ALIEN: Hi! How can I help you today?
