@@ -1,0 +1,15 @@
+# AI BABY ALLIEN CHATBOT THAT RUNS LOCALLY
+
+# REQUIREMENTS
+
+## Python
+
+## Ollama
+
+# Ask Chatgpt how to install it on your OS by uploading app.py and requirements.txt
+
+# HOW TO USE
+
+## CLICK ON ALLIEN TO TOGGLE LISTENING
+
+## RIGHT CICK TO STOP SPEAKING AND TO EXIT CHOOSE OPTIONS YOU LIKE ON MENU ON RIGHT CLICK
