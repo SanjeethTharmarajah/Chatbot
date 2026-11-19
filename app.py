@@ -108,7 +108,7 @@ class FloatingAlien(QWidget):
         # Mouth overlay sits over the alien's original small smile.
         # It opens in sync with the actual Kokoro playback audio level.
         w, h = fitted.width(), fitted.height()
-        cx, cy = x + w * 0.500, y + h * 0.478
+        cx, cy = x + w * 0.508, y + h * 0.480
         mouth_w = w * 0.12
         openness = 3.0 + self.level * h * 0.14
 
