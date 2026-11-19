@@ -20,7 +20,7 @@ from PySide6.QtCore import Qt, QTimer, Signal, QObject, QPoint
 from PySide6.QtGui import QPainter, QPixmap, QColor, QPen, QBrush, QRadialGradient
 from PySide6.QtWidgets import QApplication, QMainWindow, QWidget, QMenu
 import librosa
-AVATAR_IMAGE = Path(__file__).with_name("babyallien-removebg-preview.png")
+AVATAR_IMAGE = Path(__file__).with_name("babyallien.png")
 
 OLLAMA_URL = "http://127.0.0.1:11434/api/chat"
 OLLAMA_MODEL = "llama3.2:3b"
