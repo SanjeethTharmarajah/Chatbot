@@ -16,6 +16,9 @@
 
 # CHATBOT VIDEO
 
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=xNp30DM22pE)
+
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xNp30DM22pE">
     <img src="https://youtube.com" alt="Watch the video" width="600">
